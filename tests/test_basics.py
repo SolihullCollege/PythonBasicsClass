@@ -1,5 +1,5 @@
 import pytest
-from src.basics import *
+import src.basics
 
 
 numList = [1, 2, 3, 4, 5, 6, 7]
